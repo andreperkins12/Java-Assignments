@@ -7,15 +7,16 @@ Date: 12/24/16
 
 ## Description
 
-Tower of Hanoi Problem, Recursive Handshake problem
+Various Problems and Programs that have many different functions. Purpose of this repository is to display different problems and assignments that I have completed in Java. 
 
-Some Assignments and problems that I have completed in Java.
+All the work completed in this repository was created by Andre Perkins using different coding techniques.
+
+
 
 I pledge that all the work in this repository is my own with only the following exceptions:
 
-* Content of starter files supplied by the instructor;
-* Code borrowed from another source, documented with correct attribution in the code and summarized here.
 
 Signed,
 
 Andre Perkins
+12/24/16
